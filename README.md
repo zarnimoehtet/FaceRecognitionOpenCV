@@ -1,28 +1,17 @@
-# OpenCVFaceRecgonition
+# FaceRecgonitionOpenCV
 
-This still under-development project using OpenCV Library and Computer Vision concept to perform face detectetion and recognition task and
-it's also forked from my whole project hope to be helpful to anyone who newbie to OpenCV
+OpenCV ကိုသုံးပြီး train/recognize လုပ်လို့ရပါမယ်... Still in develop ပါ...
 
 ## Getting Started
 
-Just deploy the project on your machine and use Android Studio to get started.
+project ကို Clone ပြီးတာနဲ့ opencv module ကို တချက်စစ်ကြည့်ပါ... အကယ်၍ module မှာ data ရှိမယ်ဆိုရင် တန်းပြီး run လို့ရပါပြီ...
 
-### Prerequisites
-OpenCV Library with face module which can be found on this link:
-* [OpenCV + Face Module](https://mega.nz/#!xUcnVaLK!Hf-Z1O9h6RZ85_gqRGXfqFvB46W3n7tDRf7JjglS89g) - OpenCV Compiled Library
+module ထဲ data မရှိပါက [OpenCV + Face Module](https://mega.nz/#!xUcnVaLK!Hf-Z1O9h6RZ85_gqRGXfqFvB46W3n7tDRf7JjglS89g) - OpenCV Compiled Library ကို download လုပ်ပါ...
 
-```
-This library support 5 kind of CPUs [armeabi - armeabi-v7a - x86 - x86_64 - arm64-v8a] so you have not to worry about compatibility
-```
-```
-if you need to add an extra module [opencv_contrib] and don't know how feel free to add an issue or ask me on fb.com/assemabozaid
-```
-### Installing
+ရှိပြီးသား module ကို remove လုပ်ပြီး module အသစ်တစ်ခု ဆောက်ပါ... download ထားတဲ့ lib ထဲက data တွေကို ကူးပြီး module အသစ်ထဲ က data ကိုဖျက်ပြီး paste ချပါ... main project ထဲမှာ
 
-* First download the library from link above and add new Module from android studio then choose the library
-* After that, you gonna copy jniLibs from library to the main project to the same name folder, that because we're using C++ Code compiled with NDK so to make this code executes correctly we have to target which CPUs this device use.
-* Now your project should compile without any errors!
+new file > folder > jni file တစ်ခု ဆောက်ပါ... lib က jniLibs ထဲက folder အကုန် copy ယူပြီး အသစ် jni folder ထဲထည့်ပါ .... jniLibs ဆိုပြီး refactor လုပ်ပါ... ပြီးရင် run ကြည့်လို့
 
-### Simple Video
-* [Youtube Video](https://youtu.be/Kpcrp0yLhyw)
+ရပါပြီ ...
+
 
