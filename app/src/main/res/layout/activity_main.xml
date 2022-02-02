@@ -105,18 +105,18 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 
-    <Button
-        android:id="@+id/btn_recognize"
-        android:layout_below="@+id/btn_train"
-        android:layout_marginTop="10dp"
-        android:text="@string/app_recognize"
-        android:background="@color/primaryColor"
-        android:textColor="@android:color/white"
-        android:textAllCaps="true"
-        android:layout_marginLeft="30dp"
-        android:layout_marginRight="30dp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+<!--    <Button-->
+<!--        android:id="@+id/btn_recognize"-->
+<!--        android:layout_below="@+id/btn_train"-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        android:text="@string/app_recognize"-->
+<!--        android:background="@color/primaryColor"-->
+<!--        android:textColor="@android:color/white"-->
+<!--        android:textAllCaps="true"-->
+<!--        android:layout_marginLeft="30dp"-->
+<!--        android:layout_marginRight="30dp"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"/>-->
 
 
 </RelativeLayout>

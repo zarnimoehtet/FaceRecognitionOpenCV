@@ -37,14 +37,14 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(swap);
             }
         });
-        Button recognize = (Button)findViewById(R.id.btn_recognize);
-        recognize.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent swap = new Intent(MainActivity.this, RecognizeActivity.class);
-                startActivity(swap);
-            }
-        });
+//        Button recognize = (Button)findViewById(R.id.btn_recognize);
+//        recognize.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                Intent swap = new Intent(MainActivity.this, RecognizeActivity.class);
+//                startActivity(swap);
+//            }
+//        });
 
         function.setOnClickListener(new View.OnClickListener() {
             @Override

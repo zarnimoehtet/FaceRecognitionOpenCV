@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OpenCVFaceRecogonition.iml" filepath="$PROJECT_DIR$/.idea/modules/OpenCVFaceRecogonition.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OpenCVFaceRecogonition.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OpenCVFaceRecogonition.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCV/OpenCVFaceRecogonition.opencv.iml" filepath="$PROJECT_DIR$/.idea/modules/openCV/OpenCVFaceRecogonition.opencv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FaceRecognitionOpenCV.iml" filepath="$PROJECT_DIR$/.idea/modules/FaceRecognitionOpenCV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FaceRecognitionOpenCV.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FaceRecognitionOpenCV.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCV/FaceRecognitionOpenCV.opencv.iml" filepath="$PROJECT_DIR$/.idea/modules/openCV/FaceRecognitionOpenCV.opencv.iml" />
     </modules>
   </component>
 </project>
