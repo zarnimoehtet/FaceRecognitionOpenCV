@@ -41,6 +41,7 @@
   <androidx.databinding/>
   <androidx.datastore/>
   <androidx.documentfile/>
+  <androidx.draganddrop/>
   <androidx.drawerlayout/>
   <androidx.dynamicanimation/>
   <androidx.emoji/>
@@ -50,6 +51,7 @@
   <androidx.fragment/>
   <androidx.games/>
   <androidx.gaming/>
+  <androidx.glance/>
   <androidx.gridlayout/>
   <androidx.health/>
   <androidx.heifwriter/>
@@ -115,6 +117,7 @@
   <com.android.asset-pack/>
   <com.android.asset-pack-bundle/>
   <com.android.billingclient/>
+  <com.android.car.ui/>
   <com.android.databinding/>
   <com.android.dynamic-feature/>
   <com.android.installreferrer/>
@@ -164,6 +167,7 @@
   <com.google.android.flexbox/>
   <com.google.android.games/>
   <com.google.android.gms/>
+  <com.google.android.gms.strict-version-matcher-plugin/>
   <com.google.android.instantapps/>
   <com.google.android.instantapps.thirdpartycompat/>
   <com.google.android.libraries.car/>
@@ -190,7 +194,11 @@
   <com.google.devtools.ksp/>
   <com.google.fhir/>
   <com.google.firebase/>
+  <com.google.firebase.appdistribution/>
+  <com.google.firebase.crashlytics/>
+  <com.google.firebase.firebase-perf/>
   <com.google.gms/>
+  <com.google.gms.google-services/>
   <com.google.jacquard/>
   <com.google.mediapipe/>
   <com.google.mlkit/>
